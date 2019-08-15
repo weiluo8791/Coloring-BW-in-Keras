@@ -1,5 +1,5 @@
 # Coloring-BW-in-Keras
 
->activate tensorflow
+$ activate tensorflow
 
->jupyter notebook
+$ jupyter notebook
