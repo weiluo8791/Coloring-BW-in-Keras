@@ -102,6 +102,5 @@ ENV/
 
 
 **output
-**result
 **/*.h5
 **/*.hdf5
